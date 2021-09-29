@@ -1,0 +1,31 @@
+
+body{ 
+	   background-attachment:fixed;
+	   backface-visibility:hidden;
+	 background-size:cover;
+   }
+  
+   
+td{ border-radius:12px;
+    }   
+	
+	table.ii{ align-content:center}
+	  
+ td>div { border-radius:2px; border:hidden;  text-align:center; font-size:40px; padding:0px; font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;  
+	}
+	
+	
+	
+     div {  height:250px; border-radius:15px; width: auto; padding-top:40px;opacity:0.8; background-attachment: fixed; background-image: url(../PRO/Lion-Cubs.jpg); font-size:45px; color: #1B1B1B; 
+		 }
+		 
+	
+		 
+	a{  text-align:center;
+		text-decoration:none; color:#A29797;}	 
+  
+	     div:hover { border-color:#787575; border:thin;  height:260px; width: auto; padding-top:30px;opacity:1; background-color:#0E5E92; border:thick;color:#434343;
+		 
+		 }
+		 
+		 

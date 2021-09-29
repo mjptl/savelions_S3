@@ -1,0 +1,27 @@
+body{
+	 background-image:url(../../../../P-HOTOS/astronot.jpg); background-attachment:fixed;
+	 background-size:cover;
+   }
+   
+  
+   
+   
+   iframe{ 
+          height: 600px;; width:100%;
+	    }
+		
+	table{ width:100%; height:30px;}	
+	
+	h1{ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; color:#9E9696; }
+	
+	div { height:45px; width: auto; background-color:#044778; text-align:center ; border-radius:2px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; font-size:25px;
+	}
+	
+	.qq{ height:2px;}
+	
+	#rr{
+		color:#424141;}
+	
+	
+	div:hover {  background-color: #9F9C9D; align-content:center;color:#514D4D; color:#E7E0E0;
+	}
